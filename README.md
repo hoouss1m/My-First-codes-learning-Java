@@ -1,2 +1,1 @@
-# These are the very first snippets of code from the start of my journey learning Java—dating back to early 2026 or even earlier. This marked a pivotal starting point in my journey into programming and computing.
-Just for the sake of memory.
+# These are the very first snippets of code from the start of my journey learning Java—dating back to early 2026 or even earlier. This marked a pivotal starting point in my journey into programming and computing, Just for the sake of memory.
